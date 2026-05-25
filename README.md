@@ -8,7 +8,9 @@ See other interfaces at the [official website](https://www.michaelandreuzza.com/
 
 ## Preview
 
-![Serendipity Midnight](screenshot.png)
+| Serendipity Midnight | Serendipity Morning |
+| --- | --- |
+| ![Serendipity Midnight](screenshot.png) | ![Serendipity Morning](screenshot-light.png) |
 
 ## Available themes
 
