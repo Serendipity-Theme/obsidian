@@ -6,6 +6,10 @@ Elegant, minimal, and clean color palette for your tools.
 
 See other interfaces at the [official website](https://www.michaelandreuzza.com/vscode/serendipity/).
 
+## Preview
+
+![Serendipity Midnight](screenshot.png)
+
 ## Available themes
 
 - **Midnight** — dark
