@@ -1,9 +1,29 @@
 /* Serendipity Serendipity Morning for Obsidian */
-.theme-light {
+body.theme-light {
+  color-scheme: light;
+  --accent-h: 8;
+  --accent-s: 68%;
+  --accent-l: 68%;
+  --color-base-00: #f6f7fb;
+  --color-base-05: #f6f7fb;
+  --color-base-10: #f6f7fb;
+  --color-base-20: #eaebee;
+  --color-base-25: #eaebee;
+  --color-base-30: #505575;
+  --color-base-35: #505575;
+  --color-base-40: #505575;
+  --color-base-50: #505575;
+  --color-base-60: #505575;
+  --color-base-70: #3f4363;
+  --color-base-100: #3f4363;
   --background-primary: #f6f7fb;
   --background-primary-alt: #f6f7fb;
   --background-secondary: #eaebee;
   --background-secondary-alt: #f6f7fb;
+  --background-modifier-border: #50557540;
+  --background-modifier-border-hover: #50557566;
+  --background-modifier-hover: #5a567018;
+  --background-modifier-active-hover: #5a567018;
   --text-normal: #3f4363;
   --text-muted: #505575;
   --text-faint: #505575;
@@ -25,7 +45,9 @@
   --code-tag: #6288d8;
   --code-value: #2f7aab;
   --titlebar-background: #f6f7fb;
+  --titlebar-background-focused: #f6f7fb;
   --tab-background-active: #f6f7fb;
+  --ribbon-background: #eaebee;
   --nav-item-background-hover: #5a567018;
   --nav-item-background-active: #5a567018;
   --checkbox-color: #e58678;
