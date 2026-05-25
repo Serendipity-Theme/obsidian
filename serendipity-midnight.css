@@ -1,0 +1,32 @@
+/* Serendipity Serendipity Midnight for Obsidian */
+.theme-dark {
+  --background-primary: #151726;
+  --background-primary-alt: #151726;
+  --background-secondary: #1c1e2d;
+  --background-secondary-alt: #151726;
+  --text-normal: #dee0ef;
+  --text-muted: #8d8f9e;
+  --text-faint: #8d8f9e;
+  --text-accent: #f8d2c9;
+  --text-accent-hover: #ee8679;
+  --text-on-accent: #151726;
+  --interactive-accent: #f8d2c9;
+  --interactive-accent-hover: #ee8679;
+  --text-selection: #6B6D7C33;
+  --text-link: #ee8679;
+  --code-normal: #a78bfa;
+  --code-comment: #6b6d7c;
+  --code-function: #ee8679;
+  --code-keyword: #5ba2d0;
+  --code-important: #ee8679;
+  --code-property: #94b8ff;
+  --code-punctuation: #8d8f9e;
+  --code-string: #a78bfa;
+  --code-tag: #94b8ff;
+  --code-value: #5ba2d0;
+  --titlebar-background: #151726;
+  --tab-background-active: #151726;
+  --nav-item-background-hover: #6B6D7C33;
+  --nav-item-background-active: #6B6D7C33;
+  --checkbox-color: #f8d2c9;
+}

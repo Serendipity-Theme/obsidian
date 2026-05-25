@@ -1,0 +1,32 @@
+/* Serendipity Serendipity Morning for Obsidian */
+.theme-light {
+  --background-primary: #f6f7fb;
+  --background-primary-alt: #f6f7fb;
+  --background-secondary: #eaebee;
+  --background-secondary-alt: #f6f7fb;
+  --text-normal: #3f4363;
+  --text-muted: #505575;
+  --text-faint: #505575;
+  --text-accent: #e58678;
+  --text-accent-hover: #c25a4d;
+  --text-on-accent: #f6f7fb;
+  --interactive-accent: #e58678;
+  --interactive-accent-hover: #c25a4d;
+  --text-selection: #5a567018;
+  --text-link: #c25a4d;
+  --code-normal: #785fd0;
+  --code-comment: #6d7296;
+  --code-function: #c25a4d;
+  --code-keyword: #2f7aab;
+  --code-important: #c25a4d;
+  --code-property: #6288d8;
+  --code-punctuation: #505575;
+  --code-string: #785fd0;
+  --code-tag: #6288d8;
+  --code-value: #2f7aab;
+  --titlebar-background: #f6f7fb;
+  --tab-background-active: #f6f7fb;
+  --nav-item-background-hover: #5a567018;
+  --nav-item-background-active: #5a567018;
+  --checkbox-color: #e58678;
+}
